@@ -63,7 +63,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 ---
 
-### 💻 GitHub Stats
+<h3 align="center"> 💻 GitHub Stats </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botagas&show_icons=true&hide_border=true&theme=tokyonight" />
