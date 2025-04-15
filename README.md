@@ -55,7 +55,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 ### 🧠 What I'm into
 
 - 🎮 **Building and hosting** self-sufficient game servers and other services  
-- 📚 **Blogging**, documenting setups, guides, and tips for DIY sysadmins  
+- 📚 **Blogging**, documenting setups, guides, and tips for other enthusiasts and sysadmins  
 - 🤖 **Creating RedBot Cogs** to add helpful features to Discord bots  
 - 🎶 **Blending music and tech** – from MIDI instruments to AI-powered music tools  
 - 🧰 **Open-source exploration** – not everything is code, but everything is learnable  
