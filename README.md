@@ -25,7 +25,6 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 <p align="center">
   <a href="https://ko-fi.com/paprikachu"><img src="https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi&logoColor=white"></a>
-  <a href="https://www.paypal.me/paprikachu"><img src="https://img.shields.io/badge/PayPal-Support-00457C?style=flat&logo=paypal&logoColor=white"></a>
   <a href="https://paprikachu.com"><img src="https://img.shields.io/badge/-Paprikachu-0A0A0A?style=flat&logo=wordpress&logoColor=white" /></a>
 </p>
 
