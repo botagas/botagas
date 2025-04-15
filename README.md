@@ -21,7 +21,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 ---
 
-### 🌐 Links
+<h3 align="center"> 🌐 Links </h3>
 
 <p align="center">
   <a href="https://ko-fi.com/paprikachu"><img src="https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi&logoColor=white"></a>
