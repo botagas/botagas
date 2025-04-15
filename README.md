@@ -39,7 +39,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 ### 💼 Latest Music Release
 
 > **🎵 “Echoes of a Short Life”**  
-> A 3-part composition inspired by the folk tale *Pagrandukas*, blending narrative structure with contemporary classical style.  
+> A 3-part composition inspired by a Lithuanian folk tale, blending narrative structure with contemporary classical style.  
 > Available now on all major platforms.
 
 <p align="center">
@@ -54,7 +54,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 ### 🧠 What I'm into
 
 - 🎮 **Building and hosting** self-sufficient media ecosystems  
-- 📚 **Documenting setups**, guides, and tips for DIY sysadmins  
+- 📚 **Blogging**, documenting setups, guides, and tips for DIY sysadmins  
 - 🤖 **Creating RedBot Cogs** to add helpful features to Discord bots  
 - 🎶 **Blending music and tech** – from MIDI instruments to AI-powered music tools  
 - 🧰 **Open-source exploration** – not everything is code, but everything is learnable  
