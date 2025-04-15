@@ -24,8 +24,9 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 ### 🌐 Links
 
 <p align="center">
-  <a href="https://ko-fi.com/paprikachu"><img src="https://img.shields.io/badge/Ko--fi-Donate-ff5f5f?style=flat&logo=ko-fi&logoColor=white"></a>
-  <a href="https://www.paypal.me/paprikachu"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=flat&logo=paypal&logoColor=white"></a>
+  <a href="https://ko-fi.com/paprikachu"><img src="https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi&logoColor=white"></a>
+  <a href="https://www.paypal.me/paprikachu"><img src="https://img.shields.io/badge/PayPal-Support-00457C?style=flat&logo=paypal&logoColor=white"></a>
+  <a href="https://paprikachu.com"><img src="https://img.shields.io/badge/-Paprikachu-0A0A0A?style=flat&logo=wordpress&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -67,8 +68,6 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botagas&show_icons=true&hide_border=true&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=botagas&theme=dark&hide_border=true" />
 </p>
 
 ---
@@ -86,7 +85,8 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 ### 🌸 Let’s Connect
 
 You can support my tinkering or leave a message over at [ko-fi.com/paprikachu](https://ko-fi.com/paprikachu)  
-Or just drop a follow here if you're into any of the same vibes 💜
+Feel free to drop a follow here if you're into any of the same vibes. 
+Also, check out my blog at [paprikachu.com](https://paprikachu.com) for more insights and updates!
 
 <!--
 **botagas/botagas** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
