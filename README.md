@@ -68,6 +68,8 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=botagas&show_icons=true&hide_border=true&theme=tokyonight" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=botagas&theme=dark&hide_border=true&short_numbers=true&date_format=%5BY.%5Dn.j" />
 </p>
 
 ---
