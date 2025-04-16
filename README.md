@@ -43,6 +43,8 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 > Available now on all major platforms.
 
 <p align="center">
+  <a href="https://open.spotify.com/artist/32zeWq8ePpPkBt1rHXHdqg"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=spotify&logoColor=white"></a>
+  <a href="https://music.apple.com/us/artist/patrikas-elvinas-%C4%8Depulis/1796863713"><img src="https://img.shields.io/badge/-Apple%20Music-F94E66?style=flat&logo=apple&logoColor=white"></a>
   <a href="https://soundcloud.com/patrikas-king"><img src="https://img.shields.io/badge/-SoundCloud-ff7700?style=flat&logo=soundcloud&logoColor=white"></a>
 </p>
 
