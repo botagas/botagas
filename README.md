@@ -76,7 +76,6 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 - 🛠️ **Media Statistics and Cleanup**: Contributing to enhancing media playback analytics and exploring media cleanup options for media managers.
 - 💪 **Linux Server Configurations**: Sharing and refining setups for self-hosted applications in YunoHost.
-- 📦 **Open Source Contributions**: Engaging with projects like Bazarr to improve subtitle management workflows.
 - 🤖 **RedBot Custom Cogs**: Experimenting with Discord bot extensions to add productivity and fun features.
 - 🎵 **Music-Tech Integration**: Exploring the fusion of musical composition with technology through AI and automation tools.
 
