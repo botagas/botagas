@@ -84,7 +84,3 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 You can support my tinkering or leave a message over at [ko-fi.com/paprikachu](https://ko-fi.com/paprikachu)  
 Feel free to drop a follow here if you're into any of the same vibes. 
 Also, check out my blog at [paprikachu.com](https://paprikachu.com) for more insights and updates!
-
-<!--
-**botagas/botagas** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
--->
