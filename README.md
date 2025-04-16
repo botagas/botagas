@@ -13,7 +13,7 @@
 I’m a curious soul who loves to explore the bridge between **music and technology**.
 
 - 🎓 Wrapping up my master’s in **Music Educology**
-- 🎷 I compose and release music on **Spotify / Apple Music / Amazon / SoundCloud / Deezer** – more on that below!
+- 🎷 I compose and release music on **Spotify / Apple Music / SoundCloud** – and more!
 - 🛠️ I’m all about **self-hosting**, automation, and experimenting with tools like **Proxmox, Yunohost, Docker** and more.
 - 💻 I don't consider myself a developer—but with tools like **VS Code** and **GitHub** with Copilot support, I’ve been contributing much more actively.
 - 🌐 Passionate about open source and contributing where I can and what I can. Love learning more about networking and system administration.
