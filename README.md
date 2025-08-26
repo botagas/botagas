@@ -54,7 +54,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 - 🎮 **Building and hosting** self-sufficient game servers and other services  
 - 📚 **Blogging**, documenting setups, guides, and tips for other enthusiasts and sysadmins  
-- 🤖 **Creating RedBot Cogs** to add helpful features to Discord bots  
+- 🤖 **Creating RedBot Cogs and Custom Bots** to add helpful features to Discord bots  
 - 🎶 **Blending music and tech** – from MIDI instruments to AI-powered music tools  
 - 🧰 **Open-source exploration** – not everything is code, but everything is learnable  
 - 💙 **VS Code + Copilot** are my daily sidekicks for coding  
@@ -72,9 +72,9 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 ### 🍥 Currently Exploring...
 
-- 🛠️ **Media Statistics and Cleanup**: Contributing to enhancing media playback analytics and exploring media cleanup options for media managers.
-- 💪 **Linux Server Configurations**: Sharing and refining setups for self-hosted applications in YunoHost.
-- 🤖 **RedBot Custom Cogs**: Experimenting with Discord bot extensions to add productivity and fun features.
+- 🛠️ **Media Management**: Contributing to enhancing media playback analytics and exploring media cleanup options for media managers.
+- 💪 **Linux Servers**: Sharing and refining setups for self-hosted applications in YunoHost.
+- 🤖 **RedBot Cogs and Custom Bots**: Experimenting with Discord bot extensions to add productivity and fun features.
 - 🎵 **Music-Tech Integration**: Exploring the fusion of musical composition with technology through AI and automation tools.
 
 ---
