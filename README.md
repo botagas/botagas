@@ -69,7 +69,7 @@ I’m curious and tend to explore various topics from music to programming.
 - **Media Management**: Enhancing media playback analytics and exploring media cleanup options for media managers.
 - **Linux Servers**: Sharing and refining setups for self-hosted applications in YunoHost.
 - **RedBot Cogs and Custom Bots**: Experimenting with Discord bot extensions to add productivity and fun features.
-- **Custom Clients** for Jellyfin on WebOS, focusing on performance and UX design.
+- **Custom Clients**: Building new clients for Jellyfin on webOS, focusing on performance and UX design.
 
 ---
 
