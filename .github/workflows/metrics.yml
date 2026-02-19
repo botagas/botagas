@@ -4,6 +4,10 @@ on:
   workflow_dispatch:
 jobs:
   metrics:
+    environment: 
+      name: production
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
       - name: General
@@ -15,9 +19,6 @@ jobs:
           base: header
           base_indepth: yes
           config_order: base.header, isocalendar
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+          # output_action: gist
+          # committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
-          extras_css: |
-            h2 { display: none !important; }
-            .match:not(:last-child) { padding-bottom: 4px; }
