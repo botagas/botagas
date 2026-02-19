@@ -19,13 +19,9 @@ I’m curious and tend to explore various topics from music to programming.
 - 🌐 Passionate about open source and contributing where I can and what I can. Love learning more about networking and system administration.
 - ☕ I run on matcha and chill.
 
-<picture>
-  <img src="/general.svg" alt="Metrics">
-</picture>
-
 ---
 
-<h3 align="center"> 🌐 Links </h3>
+<h3 align="center"> 🌐 Links and Statistics </h3>
 
 <p align="center">
   <a href="https://ko-fi.com/paprikachu"><img src="https://img.shields.io/badge/Ko--fi-Support-ff5f5f?style=flat&logo=ko-fi&logoColor=white"></a>
@@ -36,6 +32,12 @@ I’m curious and tend to explore various topics from music to programming.
   <a href="https://ko-fi.com/X8X41B0YXC">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
   </a>
+</p>
+
+<p align="center">
+<picture>
+  <img src="/general.svg" alt="Metrics">
+</picture>
 </p>
 
 ---
