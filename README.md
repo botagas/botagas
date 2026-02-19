@@ -8,16 +8,16 @@
 
 ---
 
-### 🎼 About Me
+### About Me
 
-I’m a curious soul who loves to explore the bridge between **music and technology**.
+I’m curious and tend to explore various topics from music to programming.
 
-- 🎓 Wrapping up my master’s in **Music Educology**
-- 🎷 I compose and release music on **Spotify / Apple Music / SoundCloud** – links below!
+- 🎓 Graduated master's studies in **Music Educology**.
+- 🎷 I compose and release music on **Spotify / Apple Music / SoundCloud**.
 - 🛠️ I’m all about self-hosting, automation, and experimenting with **Proxmox, Yunohost, Docker** and more.
-- 💻 I don't consider myself a developer—but with tools like **VS Code** and **GitHub** with Copilot support, I’ve been contributing much more actively.
+- 💻 I don't consider myself a developer — but with AI-assisted environments, I am definitely able to contribute much more than I used to.
 - 🌐 Passionate about open source and contributing where I can and what I can. Love learning more about networking and system administration.
-- ☕ I run on matcha and cozy vibes.
+- ☕ I run on matcha and chill.
 
 <picture>
   <img src="/general.svg" alt="Metrics">
@@ -40,7 +40,7 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 ---
 
-### 💼 Latest Music Release
+### Latest Music Release
 
 > **🎵 “Echoes of a Short Life”**  
 > A 3-part composition inspired by a Lithuanian folk tale, blending narrative structure with contemporary classical style.  
@@ -54,28 +54,26 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 
 ---
 
-### 🧠 What I'm into
+### What I'm into
 
-- 🎮 **Building and hosting** self-sufficient game servers and other services  
-- 📚 **Blogging**, documenting setups, guides, and tips for other enthusiasts and sysadmins  
-- 🤖 **Creating RedBot Cogs and Custom Bots** to add helpful features to Discord bots  
-- 🎶 **Blending music and tech** – from MIDI instruments to AI-powered music tools  
-- 🧰 **Open-source exploration** – not everything is code, but everything is learnable  
-- 💙 **VS Code + Copilot** are my daily sidekicks for coding  
+- 🎮 **Building and hosting** self-sufficient game servers and other services.
+- 📚 **Blogging**, documenting setups, guides, and tips for other enthusiasts and sysadmins.
+- 🤖 **Creating Discord Bots and Cogs** to implement new features and integrations.
+- 🧰 **Open-source exploration** – not everything is code, but everything is learnable.
 - ⚽ **Foosball** enthusiast – always up for a match!
 
 ---
 
-### 🍥 Currently Exploring...
+### Currently Exploring...
 
-- 🛠️ **Media Management**: Contributing to enhancing media playback analytics and exploring media cleanup options for media managers.
-- 💪 **Linux Servers**: Sharing and refining setups for self-hosted applications in YunoHost.
-- 🤖 **RedBot Cogs and Custom Bots**: Experimenting with Discord bot extensions to add productivity and fun features.
-- 🎵 **Music-Tech Integration**: Exploring the fusion of musical composition with technology through AI and automation tools.
+- **Media Management**: Contributing to enhancing media playback analytics and exploring media cleanup options for media managers.
+- **Linux Servers**: Sharing and refining setups for self-hosted applications in YunoHost.
+- **RedBot Cogs and Custom Bots**: Experimenting with Discord bot extensions to add productivity and fun features.
+- **Custom Clients** for Jellyfin on WebOS, focusing on performance and UX design.
 
 ---
 
-### 🌸 Let’s Connect
+### Let’s Connect
 
 You can support my tinkering or leave a message over at [ko-fi.com/paprikachu](https://ko-fi.com/paprikachu)  
 Feel free to drop a follow here if you're into any of the same vibes. 
