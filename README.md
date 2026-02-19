@@ -19,6 +19,10 @@ I’m a curious soul who loves to explore the bridge between **music and technol
 - 🌐 Passionate about open source and contributing where I can and what I can. Love learning more about networking and system administration.
 - ☕ I run on matcha and cozy vibes.
 
+<picture>
+  <img src="/general.svg" alt="Metrics">
+</picture>
+
 ---
 
 <h3 align="center"> 🌐 Links </h3>
