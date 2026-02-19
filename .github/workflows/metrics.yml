@@ -6,18 +6,6 @@ jobs:
   metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_fortune: yes
       - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
