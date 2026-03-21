@@ -3,7 +3,7 @@
 </p>
 <h2 align="center">Hey there, I'm <a href="https://github.com/botagas">botagas</a></h2>
 <p align="center">
-  🎓 Educator | 🎶 Composer | 📚 Creator | 🛠️ Self-hosting | 🍜 Anime
+  🎓 Educator | 🎶 Composer | 📚 Creator | 🛠️ Self-hosting 
 </p>
 
 ---
@@ -17,7 +17,7 @@ I’m curious and tend to explore various topics from music to programming.
 - 🛠️ I’m all about self-hosting, automation, and experimenting with **Proxmox, Yunohost, Docker** and more.
 - 💻 I don't consider myself a developer — but with AI-assisted environments, I am definitely able to contribute much more than I used to.
 - 🌐 Passionate about open source and contributing where I can and what I can. Love learning more about networking and system administration.
-- ☕ I run on matcha and chill.
+- ☕ I run on matcha. I am interested in Japanese media and culture.
 
 ---
 
@@ -61,7 +61,7 @@ I’m curious and tend to explore various topics from music to programming.
 - 🎮 **Building and hosting** game servers and other services.
 - 📚 **Blogging**, documenting setups, guides, and tips for other enthusiasts and sysadmins.
 - 🤖 **Creating Discord Bots and Cogs** to implement new features and integrations.
-- 🧰 **Open-source exploration** – not everything is code, but everything is learnable.
+- 🧰 **Open-source exploration** – learning about open-source applications and related news.
 - ⚽ **Foosball** enthusiast – always up for a match!
 
 ---
